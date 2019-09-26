@@ -19,3 +19,6 @@
 - skill:
   name: CI - Jenkins
   level: 70% 
+- skill: test
+  name: Other - Jira, TestRail, Confluence, QC
+  level: 70% 

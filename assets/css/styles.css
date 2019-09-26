@@ -241,15 +241,13 @@ p {
   font-weight: 500;
   margin-bottom: 1px;
 }
-.main-wrapper .publication-link {
-  font-size: 25px;
-  font-style: bold;
-  font-style: italic;
-  color: @text-grey;
-}
 .main-wrapper .publication-authors {
   font-style: italic;
   margin-bottom: 1px;
+}
+.main-wrapper .publication-link {
+  font-size: 10px;
+  font-style: bold;
 }
 .main-wrapper .publications-section .intro {
   margin-bottom: 30px;

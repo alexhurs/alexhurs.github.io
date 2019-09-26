@@ -16,7 +16,8 @@ style: styles
 name: Alexander Hursevich
 tagline: Software Testing Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: ""
+summary: "Software Testing Engineer with technical background and 5+ years of experience in various areas including functional, integration, UI, regression and mobile testing.
+Has practical experience in developing and maintenance test automation framework including Continuous Integration using best practises."
 
 #sidebar links
 email: chursevich@gmail.com

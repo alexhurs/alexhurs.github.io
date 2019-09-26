@@ -1,75 +1,30 @@
 - experience:
-  role: Software Developer
-  time: 06/2018 - Present
-  company: Topdown Corp., Rockville, Maryland
-  details: "Develop a cloud-based solution that is simple, powerful, flexible, secure and affordable CCM solution using Scala, AngularJS and Docker. It helps companies improve the consistency of omni-channel customer communications across customer journeys and throughout the customer lifecycle.  Find out more at: http://www.topdownsystems.com/products/INTOUCH"
+  role: Software Testing Engineer
+  time: 08/2019 - Present
+  company: Intetics
+  details: "Test case creation and executing for web based tool scheduling and control of injection appointments for medical patients."
 - experience:
-  role: Research Engineer
-  time: 11/2017 - 11/2018
-  company: Zeidman Consulting, Cupertino, CA
-  details: "Analyzed software source code and writes expert reports for software IP litigation."
+  role: Software Testing Engineer
+  time: 06/2018 - 08/2019
+  company: Intetics
+  details: "Managing data feed solution for one of the largest UK betting companies. Test automation framework development and maintenance."
 - experience:
-  role: Scala Developer
-  time: 12/2013 - 02/2018
-  company: Elemica, Atlanta, Georgia
-  details: "Implemented a new supply chain operating network to connect suppliers all over the world using Scala and Lift framework. Technologies used: Scala, Lift framework, Akka, RabbitMQ, Amazon S3, Git."
+  role: Software Testing Engineer
+  time: 11/2016 - 05/2018
+  company: Intetics
+  details: "Worked as a QA engineer on retail betting system operating more than 2000 betting shops for one of the largest UK betting company."
 - experience:
-  role: Java Developer
-  time: 12/2012 - 09/2013
-  company: UpNext, Warsaw, Poland
-  details: "Maintained and implemented new features in a Push Notifications system, used to send notifications to Android/iPhone apps with ActiveMQ as a backend. Technologies used: Java, ActiveMQ, Git."
+  role: SAP Consultant
+  time: 10/2013 - 11/2016
+  company: IBA Group
+  details: "SAP SD business logic customization, test case creation and executing, automated functional testing of end-to-end business processes with Worksoft Certify for IBM US customers"
 - experience:
-  role: Java Developer
-  time: 05/2011 - 09/2012
-  company: First National Bank, Johannesburg, SA
-  details: "Developed and re-engineered existing Collateral System to support new functionalities and meet by law requirements. Technologies used: JEE 6, JSF 2.0, JPA 2.0, JBoss Server 6, JAX-WS, DB2, SVN."
+  role: SAP Consultant
+  time: 11/2010 - 09/2013
+  company: IBA Group
+  details: "SAP support in Solution Manager and SAP CRM for IBM Germany including resolving and mapping customer’s issues"
 - experience:
-  role: Java Developer
-  time: 03/2011 - 04/2011
-  company: SoftwareMill, Warsaw, Poland
-  details: "Created a Swing-based desktop client for file synchronization and a server REST API. Technology used: JSE 6,Swing, RESTeasy (client & server), TorqueBox, IntelliJ IDEA, MySQL, Amazon Cloud, Git"
-- experience:
-  role: Java Developer
-  time: 10/2010 - 02/2011
-  company: Attikis, Sydney, AU
-  details: "Developed software to monitor home alarm systems and take action based on a defined set of rules such as sending SMA, email, or calling over VoIP. Technology used: JEE 6, JSF 2.0, JPA 2.0, JBoss Server 6/5, REST, SIP Servlet, Mobicents, Drools, IntelliJ IDEA, MySQL, Amazon Cloud, Subversion."
-- experience:
-  role: J2EE Consultant
-  time: 09/2007 - 09/2010
-  company: Nykredit, Copenhagen, Denamrk
-  details: "Developed an advice system, supported customer needs, analyzed and proposed solutions. Insurance Offers System - created a Web interface to a mainframe system that allows the preparation of insurance offers for private and business customers. Technology used: J2EE 1.4, Struts 1, Hibernate 3, Axis2, IntelliJ IDEA, WebLogic 8.1, DB2, Mainframe, Windows Server 2003, CVS/Subversion"
-- experience:
-  role: Software Developer
-  time: 07/2007 - 08/2007
-  company: CSC, Vien, Austria
-  details: "Document Workflow System - created a dedicated workflow system to optimize and speed up document flow between different departments. Technology used: Borland Delphi, JEE 5, Struts 1, Spring 2, Hibernate 3, Tomcat, Linux,SQL Server 2005, Windows Server 2003, Subversion"
-- experience:
-  role: Software Developer
-  time: 02/2006 - 06/2007
-  company: Delphi Automotive Poland, Jelesnia, Poland
-  details: "Document Workflow System - created a dedicated workflow system to optimize and speed up document flow between different departments. Technology used: Borland Delphi, JEE 5, Struts 1, Spring 2, Hibernate 3, Tomcat, Linux,SQL Server 2005, Windows Server 2003, Subversion"
-- experience:
-  role: Software Developer
-  time: 01/2006 - 09/2007
-  company: Delphi Automotive Poland, Jelesnia, Poland
-  details: "Warehouse Management System - managed warehouse space, on-fly stocktaking, optimization of production plans. Technology used: Borland Delphi, Windows Mobile 2003, Compact Framework, Visual Studio 2005, SQL Server 2005, Subversion."
-- experience:
-  role: Software Developer
-  time: 03/2005 - 09/2005
-  company: Delphi Automotive Poland, Jelesnia, Poland
-  details: "HR Supporting System - managed employee training and development of personal business plans. Technology used: PHP 4, MySQL, Subversion."
-- experience:
-  role: Software Developer
-  time: 01/2003 - 04/2006
-  company: Delphi Automotive Poland, Jelesnia, Poland
-  details: "Shop Floor Efficiency Monitoring - collected and analyzed production data to generate reports for top management. Technology used: Borland Delphi, JEE 5, Struts 1, Spring 2, Hibernate 3, Tomcat, Linux, SQL Server 2005, Windows Server 2003, Subversion."
-- experience:
-  role: Infrastructure Engineer
-  time: 04/1999 - 12/2003
-  company: Delphi Automotive Poland, Jelesnia, Poland
-  details: "Manage a company network based on Novell Netware and eDirectory, Windows NT/2000 with ActiveDirectory. Support users on daily basis, support printers and shop floor devices."
-- experience:
-  role: Computer Systems Engineer
-  time: 01/1998 - 03/1999
-  company: ZUS, Sucha Beskidzka, Poland
-  details: "Provided network and user support"
+  role: ABAP developer
+  time: 02/2010 - 10/2010
+  company: Belarus Railway, Minsk, Belarus
+  details: "Production and Repair Supporting System - managed and developed internal monitoring system."

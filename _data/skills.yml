@@ -11,9 +11,8 @@
   name: MS SQL Server
   level: 40%
 - skill:
-  name: Selenium
-  level: 60%
-
-  skill:
   name: API
-  level: 60%
+  level: 60%  
+- skill:
+  name: Selenium
+  level: 60%  

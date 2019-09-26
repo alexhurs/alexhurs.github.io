@@ -17,7 +17,7 @@
 - skill:
   category: Continuous Integration 
   name: Jenkins
-  level: 70% 
+  level: 60% 
 - skill:
   category: OS 
   name: Windows, Linux, Android, iOS
@@ -25,4 +25,4 @@
 - skill: 
   category: Other
   name: Jira, TestRail, Confluence, QC, Git
-  level: 70% 
+  level: 90% 

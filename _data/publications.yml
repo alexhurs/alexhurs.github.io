@@ -2,6 +2,15 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
   - paper:
-    title: The Art of Computer Programming
+    title: TERP10 - Integration of Business Processes in SAP ERP
     authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - paper:
+    title: ISTQB Certified Tester Foundation Level
+    authors: GASQ
+  - paper:
+    title: Selenium WebDriver: A Complete Guide 
+    authors: https://software-testing.ru
+  - paper:
+    title: SQL Fundamentals
+    authors: SoloLearn
+    

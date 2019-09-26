@@ -1,32 +1,28 @@
 - skill:
-  category:
+  category: Programming Languages
   name: C#
   level: 60%
 - skill:
-  category:
-  name: ADO.NET
-  level: 60%
-- skill:
-  category:
-  name: Git
+  category: Technologies
+  name: XML/JSON, REST/SOAP, LINQ, Docker, ADO.NET
   level: 70%
 - skill:
-  category:
-  name: MS SQL Server
-  level: 40%
+  category: Databases
+  name: Microsoft SQL Server
+  level: 40% 
 - skill:
-  category:
-  name: RestSharp
+  category: Frameworks and Libraries
+  name: Selenium WebDriver, RestSharp
   level: 80%  
 - skill:
-  category:
-  name: Selenium
-  level: 80%  
+  category: Continuous Integration 
+  name: Jenkins
+  level: 70% 
 - skill:
-  category:
-  name: CI - Jenkins
+  category: OS 
+  name: Windows, Linux, Android, iOS
   level: 70% 
 - skill: 
   category: Other
-  name: Jira, TestRail, Confluence, QC
+  name: Jira, TestRail, Confluence, QC, Git
   level: 70% 

@@ -3,16 +3,21 @@ publications:
   - paper:
     title: TERP10 - Integration of Business Processes in SAP ERP
     authors: SAP
+    link:
   - paper:
     title: ISTQB Certified Tester Foundation Level
     authors: GASQ
+    link:
   - paper:
     title: Selenium WebDriver - A Complete Guide 
     authors: Software-Testing.Ru
+    link:
   - paper:
     title: Selenium WebDriver Masterclass with C# 
     authors: Udemy.com
+    link:
   - paper:
     title: SQL Fundamentals
     authors: SoloLearn
+    link: "https://www.sololearn.com/Certificate/1060-5179973/pdf/"
     

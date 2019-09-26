@@ -1,22 +1,29 @@
 - skill:
+  category:
   name: C#
   level: 60%
 - skill:
+  category:
   name: ADO.NET
   level: 60%
 - skill:
+  category:
   name: Git
   level: 70%
 - skill:
+  category:
   name: MS SQL Server
   level: 40%
 - skill:
+  category:
   name: RestSharp
   level: 80%  
 - skill:
+  category:
   name: Selenium
   level: 80%  
 - skill:
+  category:
   name: CI - Jenkins
   level: 70% 
 - skill: 

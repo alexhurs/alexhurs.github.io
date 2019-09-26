@@ -3,13 +3,13 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
 publications:
   - paper:
     title: TERP10 - Integration of Business Processes in SAP ERP
-    authors: Donald E. Knuth
+    authors: SAP
   - paper:
     title: ISTQB Certified Tester Foundation Level
     authors: GASQ
   - paper:
     title: Selenium WebDriver - A Complete Guide 
-    authors: https://software-testing.ru
+    authors: Software-Testing.Ru
   - paper:
     title: SQL Fundamentals
     authors: SoloLearn

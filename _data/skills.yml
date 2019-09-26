@@ -1,15 +1,19 @@
 - skill:
-  name: Java
+  name: C#
   level: 90%
 - skill:
-  name: Scala
+  name: ADO.NET
   level: 70%
 - skill:
-  name: JavaScript & TypeScript
+  name: Git
   level: 50%
 - skill:
-  name: AngularJS
+  name: MS SQL Server
   level: 40%
 - skill:
-  name: HTML5 & CSS
+  name: Selenium
+  level: 60%
+
+  skill:
+  name: API
   level: 60%

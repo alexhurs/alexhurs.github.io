@@ -1,18 +1,18 @@
 - skill:
   name: C#
-  level: 90%
+  level: 60%
 - skill:
   name: ADO.NET
-  level: 70%
+  level: 60%
 - skill:
   name: Git
-  level: 50%
+  level: 70%
 - skill:
   name: MS SQL Server
   level: 40%
 - skill:
-  name: API
-  level: 60%  
+  name: RestSharp
+  level: 80%  
 - skill:
   name: Selenium
-  level: 60%  
+  level: 80%  

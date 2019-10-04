@@ -9,6 +9,10 @@ publications:
     authors: GASQ
     link: "https://imgur.com/EUfOWi6"
   - paper:
+    title: C# programming for testers
+    authors: Software-Testing.Ru
+    link: http://cert.software-testing.ru/c/hursevichaleksandr1.pdf   
+  - paper:
     title: Selenium WebDriver - A Complete Guide 
     authors: Software-Testing.Ru
     link: "http://cert.software-testing.ru/selenium/web/hursevichaleksandr.pdf"

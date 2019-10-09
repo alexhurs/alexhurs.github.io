@@ -12,7 +12,7 @@
   level: 40% 
 - skill:
   category: Frameworks & Libraries
-  name: Selenium WebDriver, RestSharp
+  name: Selenium WebDriver, RestSharp, Entity Framework
   level: 80%  
 - skill:
   category: Continuous Integration 

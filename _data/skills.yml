@@ -4,15 +4,15 @@
   level: 60%
 - skill:
   category: Technologies
-  name: XML/JSON, REST/SOAP, LINQ, Docker, ADO.NET
+  name: XML/JSON, REST/SOAP, LINQ, Docker, ADO.NET, Dapper
   level: 70%
 - skill:
   category: Databases
-  name: Microsoft SQL Server
+  name: Microsoft SQL Server, MySQL
   level: 40% 
 - skill:
   category: Frameworks & Libraries
-  name: Selenium WebDriver, RestSharp, Entity Framework
+  name: Selenium WebDriver, RestSharp
   level: 80%  
 - skill:
   category: Continuous Integration 

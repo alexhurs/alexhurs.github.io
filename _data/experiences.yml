@@ -1,4 +1,9 @@
 - experience:
+  role: Test Automation Engineer
+  time: 05/2020 - present
+  company: Quantori
+  details: "Building a test automation framework from scratch. Test case creation and execution for healthcare web-based tool using Azure DevOps."
+- experience:
   role: Software Testing Engineer
   time: 08/2019 - present
   company: Intetics

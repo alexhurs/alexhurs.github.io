@@ -1,6 +1,10 @@
 intro: "Some of my projects that I was engaded with."
 projects:
   - project:
+    title: The Jackson Laboratory
+    link: "https://www.jax.org/"
+    tagline: "Healthcare project focuses on the automation of internal processes of one of the largest laboratories in the USA, as well as integration with internal and external systems for the exchange of medical data." 
+  - project:
     title: Ladbrokes Betting
     link: "https://www.ladbrokes.com"
     tagline: "Ladbrokes Coral is a British betting and gambling company based in London."
@@ -8,3 +12,6 @@ projects:
     title: Lutaplanning
     link: "https://projects.invisionapp.com/share/8NR312O9CVE#/screens/364999238"
     tagline: "Luta Planning is a medical tool for scheduling and control of injection appointments for patients."
+
+
+

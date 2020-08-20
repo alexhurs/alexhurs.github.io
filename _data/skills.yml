@@ -8,7 +8,7 @@
   level: 70%
 - skill:
   category: Databases
-  name: Microsoft SQL Server, MySQL
+  name: Microsoft SQL Server, MySQL, Azure Cosmos DB (Mongo DB)
   level: 40% 
 - skill:
   category: Frameworks & Libraries

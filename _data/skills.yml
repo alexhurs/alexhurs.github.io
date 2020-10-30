@@ -8,8 +8,8 @@
   level: 70%
 - skill:
   category: Databases
-  name: Microsoft SQL Server, MySQL, Azure Cosmos DB (Mongo DB)
-  level: 40% 
+  name: MS SQL Server, MySQL, Azure Cosmos DB (Mongo DB, SQL API)
+  level: 50% 
 - skill:
   category: Frameworks & Libraries
   name: Selenium WebDriver, RestSharp

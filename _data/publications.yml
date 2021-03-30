@@ -1,13 +1,17 @@
 intro: ""
 publications:
-  - paper:
-    title: TERP10 - Integration of Business Processes in SAP ERP
-    authors: SAP
-    link:
-  - paper:
+   - paper:
     title: ISTQB Certified Tester Foundation Level
     authors: GASQ
     link: "https://imgur.com/EUfOWi6"
+   - paper:
+    title: Azure Fundamentals
+    authors: Microsoft
+    link:
+   - paper:
+    title: TERP10 - Integration of Business Processes in SAP ERP
+    authors: SAP
+    link:
   - paper:
     title: C# programming for testers
     authors: Software-Testing.Ru

@@ -1,14 +1,14 @@
 intro: ""
 publications:
-   - paper:
+  - paper:
     title: ISTQB Certified Tester Foundation Level
     authors: GASQ
     link: "https://imgur.com/EUfOWi6"
-   - paper:
+  - paper:
     title: Azure Fundamentals
     authors: Microsoft
     link:
-   - paper:
+  - paper:
     title: TERP10 - Integration of Business Processes in SAP ERP
     authors: SAP
     link:

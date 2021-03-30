@@ -4,7 +4,7 @@
   level: 60%
 - skill:
   category: Microsoft Azure
-  name: Azure Logic Apps, Azure Functions, Azure Cosmos DB (Mongo DB, SQL API), Azure Batch, Azure Blob Storage, Azure DevOps, Azure VM, Azure Service Bus
+  name: Logic Apps, Functions, Cosmos DB (Mongo DB, SQL API), Batch, Blob Storage, DevOps, VM, Service Bus
   level: 60%
 - skill:
   category: Technologies

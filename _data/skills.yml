@@ -3,12 +3,16 @@
   name: C#
   level: 60%
 - skill:
+  category: Microsoft Azure
+  name: Azure Logic Apps, Azure Functions, Azure Cosmos DB (Mongo DB, SQL API), Azure Batch, Azure Blob Storage, Azure DevOps, Azure VM, Azure Service Bus
+  level: 60%
+- skill:
   category: Technologies
   name: XML/JSON, REST/SOAP, LINQ, Docker, ADO.NET, Dapper
   level: 70%
 - skill:
   category: Databases
-  name: MS SQL Server, MySQL, Azure Cosmos DB (Mongo DB, SQL API)
+  name: MS SQL Server, MySQL
   level: 50% 
 - skill:
   category: Frameworks & Libraries
@@ -24,5 +28,5 @@
   level: 70% 
 - skill: 
   category: Other
-  name: Jira, TestRail, Azure Test Plans, Confluence, QC, GitHub, Azure Repos, BrowserStack
+  name: Jira, TestRail, Confluence, QC, GitHub, BrowserStack
   level: 90% 

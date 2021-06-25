@@ -1,9 +1,13 @@
 intro: ""
 publications:
   - paper:
-    title: ISTQB Certified Tester Foundation Level
+    title: ISTQB - Foundation Level, Certified Tester 
     authors: GASQ
     link: "https://imgur.com/EUfOWi6"
+  - paper:
+    title: ISTQB - Advanced Level, Test Automation Engineer
+    authors: GASQ
+    link: "https://imgur.com/a/NqWXhJk"
   - paper:
     title: Azure Fundamentals
     authors: Microsoft

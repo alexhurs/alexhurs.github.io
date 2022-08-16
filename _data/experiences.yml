@@ -1,6 +1,11 @@
 - experience:
   role: Software Testing Engineer
-  time: 05/2020 - present
+  time: 10/2021 - present
+  company: Jackson Laboratory 
+  details: "Automate testing using C#, Selenium, SpecFlow and maintain test runs via Azure DevOps and Report Portal for resource management tool project."
+- experience:
+  role: Software Testing Engineer
+  time: 05/2020 - 10/2021
   company: Jackson Laboratory 
   details: "Performing both manual and automation testing using C# & Selenium Webdriver for several healthcare web-based tools. Test case creation and execution using Azure DevOps. Writing validation scripts (C#) for the scientific workflows using Azure logic apps, event grid, blob storages etc."
 - experience:

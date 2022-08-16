@@ -14,7 +14,7 @@ style: styles
 
 #Profile information
 name: Alexander Hursevich
-tagline: Quality Assurance Engineer
+tagline: Test Automation Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "Certified QA Engineer with a technical background and 10 years of IT experience in various areas including functional, integration, UI, regression, and mobile testing.
 Have practical experience in developing and maintenance test automation framework including Continuous Integration using best practices."

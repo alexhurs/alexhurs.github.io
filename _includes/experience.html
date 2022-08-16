@@ -21,6 +21,12 @@
       <p>{{ experience.details }}</p>
     </div><!--//details-->
     {% endif %}
+	
+    {% if experience.details %}
+    <div class="environment">
+      <p>{{ experience.environment }}</p>
+    </div><!--//environment-->
+    {% endif %}
 
   </div><!--//item-->
 {% endfor %}

@@ -2,6 +2,7 @@
   role: Software Testing Engineer
   time: 10/2021 - present
   company: Jackson Laboratory 
+  environment: "Scrum, Azure DevOps Services, Azure Test Plans, .Net, C#, SpecFlow Jira/Confluence, Gherkin, BDD"
   details: "Automate testing using C#, Selenium, SpecFlow and maintain test runs via Azure DevOps and Report Portal for resource management tool project."
 - experience:
   role: Software Testing Engineer
